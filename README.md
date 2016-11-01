@@ -1,2 +1,3 @@
-# datasets
-Some supplementary dataset for other repostories
+# Datasets
+
+This repository hosts some supplementary datasets for different bioinformatics tools.
