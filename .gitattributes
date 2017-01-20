@@ -1,1 +1,2 @@
 *.fasta filter=lfs diff=lfs merge=lfs -text
+nano-align/nano-align.zip filter=lfs diff=lfs merge=lfs -text
